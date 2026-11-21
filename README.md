@@ -1,18 +1,326 @@
-# 💫 About Me:
-🔭 I'm currently working on <br>Building Agentic AI projects integrated with Flutter mobile apps! I'm creating intelligent systems that can plan, reason, automate tasks, and make independent decisions. Also developing scalable apps with Firebase/MongoDB backends, focusing on clean architecture and performance. 🚀🤖<br><br>👯 I'm looking to collaborate on <br>AI-driven mobile app projects, global hackathons (like Lablab.ai or Devpost), or innovative startups involving Agentic AI, Flutter, and backend integrations. Let's team up for MVPs or AI + app challenges! 🤝💡<br><br>🤝 I'm looking for help with  <br>Advanced Agentic AI techniques, scaling AI models in mobile environments, or mentorship on competitive programming and DSA in C++. Open to tips on optimizing Flutter apps too! 🌟🆘<br><br>🌱 I'm currently learning  <br>Agentic AI for autonomous app features, deepening my skills in Riverpod/GetX for state management, and exploring more about MongoDB for robust backends. Always leveling up in JavaScript and web tech! 📚🧠<br><br>❓ Ask me about <br>Flutter development, Agentic AI in mobile apps, hackathon strategies, Firebase integrations, or my experiences in international coding competitions. I'm all ears! 💬🔍<br><br>⚡ Fun fact  <br>I've turned weekend hackathons into full-fledged app prototypes that blend AI with real-world problem-solving – once built an AI assistant in 48 hours that automates daily workflows! 😎🎉
+# Muhammad Ali Liaqat
 
+### Software Engineer | AI Engineer | Agentic AI Developer | Startup Founder
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-ali-2989b92a8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrkahn425@gmail.com) 
+Software Engineer from Faisalabad, Pakistan, with over 1.5 years of hands-on experience in software engineering, AI development, backend systems, mobile applications, automation, and full-stack development. I specialize in building practical software solutions, intelligent systems, AI-powered applications, and scalable digital products using modern technologies and engineering practices.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ali7-cell&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ali7-cell&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali7-cell&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Throughout my professional journey, I have worked on multiple software projects, collaborated with approximately 10–12 clients, participated in national and international hackathons and coding competitions, and developed solutions for real-world requirements. Some of my client relationships have evolved into long-term professional collaborations, with recurring clients continuing to work with me on ongoing projects.
+
+Alongside software engineering, I have experience teaching Data Structures and Algorithms (DSA), guiding students in programming, and helping them develop technical knowledge, logical thinking, and problem-solving skills.
+
+I am also building startups and working on innovative technology products, including KidoTales, a learning platform focused on autistic children.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ali7-cell&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+- Software Engineer with 1.5+ years of practical development experience.
+- AI Engineer focused on Agentic AI, intelligent systems, and AI-powered applications.
+- Based in Faisalabad, Pakistan.
+- Worked with approximately 10–12 clients on real-world software development projects.
+- Built long-term professional relationships with recurring clients.
+- Participated in national and international hackathons, coding competitions, and technology challenges.
+- Competed in programming and problem-solving activities, including LeetCode and Harvard-associated initiatives.
+- Former DSA Instructor at iCode, teaching programming and Data Structures & Algorithms.
+- Experienced in teaching, mentoring, and guiding students in programming and technical subjects.
+- Founder of KidoTales, a startup focused on technology-driven learning experiences for autistic children.
+- Experienced in developing mobile applications, backend systems, APIs, AI integrations, automation workflows, and database-driven software.
+- Passionate about technology, innovation, software architecture, AI engineering, and solving real-world problems.
+
+---
+
+## Professional Experience
+
+### Software Engineering & Client Projects
+
+I have worked with approximately 10–12 clients on software development projects, providing technical solutions based on project requirements, business needs, and practical use cases.
+
+My client experience includes understanding requirements, planning development workflows, building software systems, integrating APIs, developing applications, working with databases, and maintaining ongoing projects.
+
+Some of my clients are long-term clients who continue to collaborate with me on recurring projects and software development requirements.
+
+**Key responsibilities and experience:**
+
+- Software development and implementation.
+- Requirement analysis and technical planning.
+- Client communication and collaboration.
+- Full-stack application development.
+- Backend development and API integration.
+- Mobile application development.
+- Database design and integration.
+- AI integration and automation.
+- Software debugging and maintenance.
+- Ongoing development for long-term clients.
+- Converting business requirements into functional software solutions.
+
+---
+
+## Teaching & Mentorship
+
+### iCode — Data Structures & Algorithms Instructor
+
+Worked as a DSA instructor at iCode, teaching students programming concepts, Data Structures & Algorithms, logical thinking, and problem-solving techniques.
+
+Teaching and academic guidance included:
+
+- Programming Fundamentals.
+- C++ Programming.
+- Data Structures.
+- Algorithms.
+- Functions.
+- Arrays.
+- Loops and Conditional Statements.
+- Logical Problem-Solving.
+- Algorithmic Thinking.
+- Programming Practice.
+- Coding Problems and Implementation.
+
+I also guide students individually, help them understand complex concepts, improve their programming logic, solve coding problems, and strengthen their technical foundations.
+
+### Student Mentorship
+
+- Teaching programming and computer science concepts.
+- Helping students understand coding logic.
+- Guiding students through programming problems.
+- Supporting academic and technical learning.
+- Improving problem-solving and analytical skills.
+- Providing practical coding guidance.
+- Mentoring students in their programming journey.
+
+---
+
+## Hackathons & Coding Competitions
+
+I have participated in various national and international hackathons, coding competitions, programming challenges, and technology-driven innovation events.
+
+These competitions have allowed me to explore new technologies, work collaboratively, develop practical solutions, solve real-world problems, and build software prototypes under challenging time constraints.
+
+### Competition Experience
+
+- National Hackathons.
+- International Hackathons.
+- Software Development Competitions.
+- Competitive Programming.
+- Algorithmic Challenges.
+- AI & Machine Learning Challenges.
+- Innovation and Startup Competitions.
+- Team-Based Technology Challenges.
+- Real-World Problem-Solving Events.
+
+### Coding & Competitive Programming
+
+- LeetCode problem-solving and programming practice.
+- Harvard-associated programming and coding initiatives.
+- Algorithmic problem-solving challenges.
+- Programming competitions.
+- Technical and software development challenges.
+
+I have also achieved winning positions in some competitions, gaining experience in competitive development, teamwork, innovation, and rapid problem-solving.
+
+---
+
+## Startup & Entrepreneurship
+
+### KidoTales — Startup Founder
+
+KidoTales is a technology-driven learning platform focused on autistic children, designed to provide engaging, interactive, structured, and child-focused educational experiences.
+
+As a Startup Founder, I am involved in developing the platform's vision, product direction, technology, and digital learning experience.
+
+**Core focus areas:**
+
+- Interactive learning experiences for children.
+- Educational content and digital learning.
+- Technology-driven educational solutions.
+- Child-focused learning environments.
+- Interactive activities and engagement.
+- Structured learning experiences.
+- Parental control and monitoring.
+- Safe and meaningful digital experiences.
+- Future expansion of educational modules and features.
+
+The goal is to combine technology and structured learning to create meaningful digital experiences that support children's learning and engagement.
+
+---
+
+## AI & Agentic AI Engineering
+
+My core technical interest is building intelligent systems using Artificial Intelligence, Generative AI, Agentic AI, and autonomous workflows.
+
+I explore and develop AI-powered solutions that combine large language models, tools, APIs, structured workflows, external integrations, and backend systems to automate tasks and solve practical problems.
+
+### Areas of Focus
+
+- Agentic AI.
+- AI Agents.
+- Multi-Agent Systems.
+- Generative AI.
+- Large Language Models (LLMs).
+- AI Automation.
+- Retrieval-Augmented Generation (RAG).
+- AI Workflow Orchestration.
+- Tool Calling and Function Calling.
+- Prompt Engineering.
+- Intelligent Decision-Making Systems.
+- Context-Aware AI Applications.
+- AI-Powered Mobile Applications.
+- Autonomous and Semi-Autonomous Systems.
+
+### AI Technologies & Frameworks
+
+LangChain, LangGraph, MCP, RAG, LLM Integration, AI APIs, Prompt Engineering, AI Agent Workflows, Generative AI.
+
+---
+
+## Software Development
+
+I build software applications and systems by combining modern programming languages, frameworks, backend technologies, databases, cloud services, and development tools.
+
+### Development Areas
+
+- Full-Stack Software Development.
+- Backend Engineering.
+- REST API Development.
+- Mobile Application Development.
+- AI Application Development.
+- Database-Driven Applications.
+- Cloud-Connected Systems.
+- Automation & Workflow Engineering.
+- Application Integration.
+- MVP & Startup Product Development.
+- System Design & Architecture.
+- Software Testing and Debugging.
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
+C++, C, Python, JavaScript, TypeScript, Dart, Java, Kotlin, PHP, Swift
+
+### AI & Machine Learning
+
+Artificial Intelligence, Generative AI, Agentic AI, AI Agents, Large Language Models, RAG, Prompt Engineering, AI Automation, LLM Integration, Tool Calling, Multi-Agent Workflows
+
+### AI Frameworks & Tools
+
+LangChain, LangGraph, MCP, TensorFlow, PyTorch, NumPy, Pandas, Matplotlib
+
+### Backend Development
+
+FastAPI, Flask, Node.js, Express.js, REST APIs, Backend Architecture, API Integration, Authentication, Server-Side Development
+
+### Frontend Development
+
+React, HTML5, CSS3, JavaScript, TypeScript, Responsive UI Development
+
+### Mobile Development
+
+Flutter, Dart, React Native, Android Development, Cross-Platform Application Development
+
+### Databases
+
+PostgreSQL, Supabase, MongoDB, Firebase, MySQL, SQLite, Neon
+
+### Cloud & Infrastructure
+
+AWS, Microsoft Azure, Google Cloud, Cloudflare, Docker, Nginx, Apache
+
+### DevOps & Version Control
+
+Git, GitHub, GitLab, GitHub Actions, CI/CD, Deployment, Version Control
+
+### Development Tools
+
+Visual Studio Code, Android Studio, Postman, Notion, Trello, n8n
+
+---
+
+## Core Expertise
+
+- Software Engineering.
+- AI Engineering.
+- Agentic AI Development.
+- Full-Stack Development.
+- Backend & API Engineering.
+- Mobile Application Development.
+- AI Integration.
+- Intelligent Automation.
+- Data Structures & Algorithms.
+- Database Design.
+- System Integration.
+- Cloud Deployment.
+- Software Architecture.
+- Problem-Solving.
+- Client Project Development.
+- Startup & MVP Development.
+- Technical Teaching.
+- Student Mentorship.
+- Team Collaboration.
+
+---
+
+## Current Professional Focus
+
+My current focus is on building advanced software systems, intelligent AI applications, Agentic AI workflows, autonomous agents, mobile applications, and scalable backend architectures.
+
+I am continuously working on improving my engineering capabilities, exploring emerging technologies, building real-world products, and developing software solutions that combine intelligent automation with practical usability.
+
+---
+
+## Collaboration & Interests
+
+I am interested in collaborating with developers, software engineers, AI engineers, startup founders, innovators, and technology teams on:
+
+- Agentic AI projects.
+- AI-powered software products.
+- Intelligent automation systems.
+- Mobile and full-stack applications.
+- Startup MVPs.
+- National and international hackathons.
+- Open-source projects.
+- Innovative technology solutions.
+- Real-world software engineering projects.
+
+---
+
+## Connect With Me
+
+**Muhammad Ali Liaqat**
+Software Engineer | AI Engineer | Startup Founder
+
+Faisalabad, Pakistan
+
+**LinkedIn:**
+[https://www.linkedin.com/in/muhammad-ali-2989b92a8/](https://www.linkedin.com/in/muhammad-ali-2989b92a8/)
+
+**Email:**
+
+aliliaqat22731279\@gmail.com
+
+**Portfolio:**
+[https://muhammadalee.vercel.app/](https://muhammadalee.vercel.app/)
+
+---
+
+## GitHub Statistics
+
+### GitHub Overview
+
+
+
+### GitHub Contribution Streak
+
+
+
+### Most Used Languages
+
+
+
+### Contribution Activity Graph
+
+
+
+---
+
